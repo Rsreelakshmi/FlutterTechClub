@@ -11,7 +11,7 @@ https://flutter.io/
 
 https://flutter.io/tutorials/
 
-Udemy - (https://www.udemy.com/flutter-zero-to-professional-cross-platform-app-iosandroid/learn/v4/overview
+https://www.udemy.com/flutter-zero-to-professional-cross-platform-app-iosandroid/learn/v4/overview
 
 https://medium.com/quick-code/best-video-tutorials-of-flutter-to-develop-application-for-android-ios-30909618f8e5
 
